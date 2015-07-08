@@ -1,0 +1,116 @@
+item.oingot.name=Orichalcum Ingot
+item.uingot.name=Ultimite Ingot
+item.mingot.name=Mythril Ingot
+item.singot.name=Silver Ingot
+//item.bluedye.name=Blue Dye
+item.cthread.name=Crystal Thread
+item.gthread.name=Gold Thread
+item.ast.name=Amethyst
+item.mgem.name=Master Gem
+item.oal.name=Opal
+item.rby.name=Ruby
+item.sire.name=Sapphire
+item.topaz.name=Topaz
+item.steel.name=Steel
+item.estick.name=Ender Stick
+tile.aore.name=Amethyst Ore
+tile.oreo.name=Orichalcum Ore
+tile.tore.name=Topaz Ore
+tile.rore.name=Ruby Ore
+tile.opore.name=Opal Ore
+tile.sore.name=Sapphire Ore
+item.urod.name=Ultimite Rod
+item.hade.name=Heated Master Blade
+item.orod.name=Orichalcum Rod
+item.made.name=Master Blade
+item.oaxe.name=Orichalcum Axe
+item.ohoe.name=Orichalcum Hoe
+item.opick.name=Orichalcum Pickaxe
+item.oshove.name=Orichalcum Shovel
+item.osword.name=Orichalcum Sword
+item.maxe.name=Mythril Axe
+item.mhoe.name=Mythril Hoe
+item.mpick.name=Mythril Pickaxe
+item.mshove.name=Mythril Shovel
+item.msword.name=Mythril Sword
+item.OrichalcumHelmet.name=Orichalcum Helmet
+item.OrichalcumChestplate.name=Orichalcum Chestplate
+item.OrichalcumLeggings.name=Orichalcum Leggings
+item.OrichalcumBoots.name=Orichalcum Boots
+tile.siore.name=Silver Ore
+item.MythrilHelmet.name=Mythril Helmet
+item.MythrilChestplate.name=Mythril Chestplate
+item.MythrilLeggings.name=Mythril Leggings
+item.MythrilBoots.name=Mythril Boots
+item.mmetal.name=Master Metal
+item.lmhilt.name=Left Master Blade Hilt
+item.MasterSword.name=Master Sword
+item.DormantBlade.name=Dormant Master Blade
+item.koald.name=Kokiri Emerald
+item.gruby.name=Goron Ruby
+item.zfire.name=Zora Sapphire
+item.rmhilt.name=Right Master Blade Hilt
+item.mhilt.name=Middle Master Blade Hilt
+tile.SHFurnaceIdle.name=Super Heated Furnace
+tile.SHFurnaceActive.name=Super Heated Furnace[Active]
+itemGroup.smiths=Mythical Blacksmiths
+tile.more.name=Mythril Ore
+item.DeltoraSword.name=Deltora Sword
+item.HermesBoots.name=Hermes Boots
+item.AmethystBoots.name=Amethyst Boots
+item.SapphireHelmet.name=Sapphire Helmet
+item.OpalChestplate.name=Opal Chestplate
+item.TopazLeggings.name=Topaz Leggings
+item.AmethystBoots.name=Amethyst Boots
+item.InvisibilityCloak.name=Helmet of Hades
+tile.oblock.name=Orichalcum Block
+item.abow.name=Apollo's Bow
+item.aparrow.name=Arrow of the God's
+tile.ablock.name=Amethyst Block
+tile.mock.name=Mythril Block
+tile.opblock.name=Opal Block
+tile.rblock.name=Ruby Block
+tile.sock.name=Sapphire Block
+item.arbow.name=Artemis' Bow
+item.oil.name=Olive Oil
+item.Olive.name=Olives
+tile.Log.Olive.name=Olive Log
+tile.Leaf.Olive.name=Olive Leaves
+tile.Sapling.Olive.name=Olive Sapling
+entity.TestMob.name=Advanced Automaton
+entity.Minotaur.name=Minotaur
+item.BattleAxe.name=Battle Axe
+entity.Auto.name=Automaton
+entity.FriendlyAuto.name=Friendly Automaton
+tile.owood.name=Olive Wood Plank
+entity.ByzantineGrenade.name=Byzantine Grenade
+item.bnade.name=Byzantine Grenade
+entity.bnade.name=Byzantine Grenade
+item.bthrower.name=Byzantine Flamethrower
+item.aarm.name=Automaton Arm
+item.aleg.name=Automaton Leg
+item.achest.name=Automaton Chest
+tile.upauto.name=Automaton Torso
+tile.loauto.name=Automaton Legs
+tile.naphtha.name=Naphtha
+item.bucketNaphtha.name=Naphtha Bucket
+item.ahead.name=Automaton Head
+item.fpipe.name=Flamethrower Pipe
+item.fpump.name=Flamethrower Pump
+item.fbag.name=Naphtha Pouch
+item.fnozzle.name=Flamethrower Nozzle
+tile.tblock.name=Topaz Block
+
+
+
+Artemis Arrow effects
+Blindness
+Nausea
+Weakness
+Slowness
+Hunger
+Fatigue
+all this for 1 minute
+
+New Liquid for Creating of Greek Fire
+Naphtha
